@@ -464,6 +464,7 @@
 0.0.0.0 scontent-b-vie.xx.fbcdn.net
 0.0.0.0 scontent-b.xx.fbcdn.net
 0.0.0.0 scontent-cdg.xx.fbcdn.net
+0.0.0.0 scontent-dft4-1.xx.fbcdn.net
 0.0.0.0 scontent-dfw.xx.fbcdn.net
 0.0.0.0 scontent-fra.xx.fbcdn.net
 0.0.0.0 scontent-gru.xx.fbcdn.net
