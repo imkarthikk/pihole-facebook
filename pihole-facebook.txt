@@ -442,6 +442,7 @@
 0.0.0.0 scontent-a-vie.xx.fbcdn.net
 0.0.0.0 scontent-a.xx.fbcdn.net
 0.0.0.0 scontent-ams.xx.fbcdn.net
+0.0.0.0 scontent-ams3-1.xx.fbcdn.net
 0.0.0.0 scontent-atl.xx.fbcdn.net
 0.0.0.0 scontent-b-ams.xx.fbcdn.net
 0.0.0.0 scontent-b-atl.xx.fbcdn.net
