@@ -376,6 +376,7 @@
 0.0.0.0 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 0.0.0.0 herningrideklub.netscontent-a-ams.xx.fbcdn.net
 0.0.0.0 ncontent.xx.fbcdn.net
+0.0.0.0 nl-nl.facebook.com
 0.0.0.0 origincache-ash.t.fbcdn.net
 0.0.0.0 origincache-frc.t.fbcdn.net
 0.0.0.0 origincache-prn.t.fbcdn.net
@@ -442,6 +443,7 @@
 0.0.0.0 scontent-a-vie.xx.fbcdn.net
 0.0.0.0 scontent-a.xx.fbcdn.net
 0.0.0.0 scontent-ams.xx.fbcdn.net
+0.0.0.0 scontent-ams3-1.xx.fbcdn.net
 0.0.0.0 scontent-atl.xx.fbcdn.net
 0.0.0.0 scontent-b-ams.xx.fbcdn.net
 0.0.0.0 scontent-b-atl.xx.fbcdn.net
