@@ -556,6 +556,13 @@
 0.0.0.0 xx-fbcdn-shv-04-prn2.fbcdn.net
 0.0.0.0 z-1-scontent-sjc2-1.xx.fbcdn.net
 0.0.0.0 z-1-scontent.xx.fbcdn.net
+0.0.0.0 gateway.facebook.com
+0.0.0.0 graph.fbpigeon.com
+0.0.0.0 web-fallback.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 scontent.fcgh17-1.fna.fbcdn.net
+0.0.0.0 graph-fallback.instagram.com
+0.0.0.0 z-p42-chat-e2ee-ig.facebook.com
 0.0.0.0 api.instagram.com
 0.0.0.0 black.ish.instagram.com
 0.0.0.0 i.instagram.com
@@ -618,6 +625,11 @@
 0.0.0.0 telegraph-ash.instagram.com
 0.0.0.0 white.ish.instagram.com
 0.0.0.0 www.instagram.com
+0.0.0.0 instagram.fcgh16-1.fna.fbcdn.net
+0.0.0.0 i-fallback.instagram.com
+0.0.0.0 instagram.fcgh17-1.fna.fbcdn.net
+0.0.0.0 graph.instagram.com
+0.0.0.0 gateway.instagram.com
 0.0.0.0 ae0.bb01.ams2.tfbnw.net
 0.0.0.0 ae0.bb01.atl1.tfbnw.net
 0.0.0.0 ae0.bb01.bos2.tfbnw.net
