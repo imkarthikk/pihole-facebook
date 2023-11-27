@@ -626,8 +626,9 @@
 0.0.0.0 white.ish.instagram.com
 0.0.0.0 www.instagram.com
 0.0.0.0 instagram.fcgh16-1.fna.fbcdn.net
-0.0.0.0 i-fallback.instagram.com
+0.0.0.0 instagram.fqps5-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgh17-1.fna.fbcdn.net
+0.0.0.0 i-fallback.instagram.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 gateway.instagram.com
 0.0.0.0 ae0.bb01.ams2.tfbnw.net
