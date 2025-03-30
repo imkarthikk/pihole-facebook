@@ -1,6 +1,8 @@
 # pihole-facebook
 Facebook DNS Blocklist for Pihole.
 
+**P.S.:** Still relevant in 2025.
+
 ## Usage
 
 1. Login into `Pi-hole admin`
